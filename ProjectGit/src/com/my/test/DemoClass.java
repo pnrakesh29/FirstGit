@@ -4,7 +4,7 @@ public class DemoClass {
 
 	public static void main(String[] args) {
 		
-        int n=5;
+        int n=7;
         int i;
         for( i=2;i<=n;i++)
         {
